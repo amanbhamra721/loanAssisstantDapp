@@ -21,4 +21,3 @@ contract MockPriceOracle {
         return decimals;
     }
 }
-
